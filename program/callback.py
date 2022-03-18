@@ -40,15 +40,15 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 جـروب الـدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 قناة البوت", url=f"https://t.me/FA9SH"
+                        "📣 قناة الســورس", url=f"https://t.me/L_S_A_V_O"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "𓌹●↯‌•ʙᴏᴛ ѕʜᴀᴅᴏᴡ•↯●𓌺", url="https://t.me/USDDBOT?startgroup=true"
+                        "「 ســــافو ص دلــــتـــا × 」", url="https://t.me/B8stat_bot?startgroup=true"
                     )
                 ],
             ]
